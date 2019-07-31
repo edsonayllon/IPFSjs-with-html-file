@@ -3,7 +3,7 @@
 
 ## 1 | Description
 
-Creats an IPFS peer to peer instance before the React app fully loads by inserting into the public html (`./client/public/index.html`).
+Creats an IPFS peer to peer instance before the React app fully loads by inserting into `./client/public/index.html`.
 
 ![Screenshot](./Screenshot_7.jpg)
 
